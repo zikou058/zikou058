@@ -22,10 +22,10 @@ I don’t just write code; I build digital products. I am deeply committed to cl
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Tailwind CSS, HTML5/CSS3 |
-| **Backend** | PHP, Laravel |
-| **Databases** | MySQL |
-| **DevOps & Tools** | Git, Docker |
+| **Frontend** | React, Tailwind CSS, HTML5/CSS3 
+| **Backend** | PHP, Laravel 
+| **Databases** | MySQL 
+| **DevOps & Tools** | Git, Docker 
 
 ---
 
