@@ -10,7 +10,6 @@ My main tech stack is **React, Css, Html, and Tailwind**. I'm also deeply intere
 
 I've built various public repositories, focusing on clean code and modern web standards.
 
-If you want to collaborate or just say hi, feel free to reach out!
 
 **Fun Facts:**
 * 💻 I love exploring new open-source tools.
