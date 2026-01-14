@@ -1,46 +1,19 @@
-# Hi there, I'm Zakaria Mennis 👋
+# Hey there! 👋
 
-### 🚀 Full Stack Web Developer | Specializing in Scalable Web Solutions
+I'm **Zakaria Mennis**, a Full Stack Web Developer.
 
-I am a **passionate Full Stack Developer** dedicated to building seamless, user-centric web applications. My expertise lies in architecting scalable solutions that combine robust backend logic with intuitive, high-performance frontend experiences.
+I specialize in building scalable web solutions and seamless, user-centric applications. I love turning complex problems into elegant, functional code.
 
-I don’t just write code; I build digital products. I am deeply committed to clean code architecture, performance optimization, and staying at the forefront of modern web technologies. My goal is to bridge the gap between complex business requirements and elegant software solutions.
+If an idea pops into my head, chances are I'll build it and ship it.
 
----
+My main tech stack is **React, Css, Html, and Tailwind**. I'm also deeply interested in system architecture and performance optimization.
 
-## 👨‍💻 About Me
+I've built various public repositories, focusing on clean code and modern web standards.
 
-- 🧠 **Philosophy:** I believe in "Code for Humans, Optimize for Machines." Every line of code should be readable and maintainable.
-- ⚡ **Expertise:** Specialized in building production-ready applications using the MERN/PERN stack.
-- 🔭 **Focus:** Currently deep-diving into Cloud Native technologies and System Design.
-- 🌱 **Growth:** Always learning—currently exploring Microservices and Serverless architectures.
-- 💬 **Mentorship:** I love sharing knowledge and discussing best practices in software development.
+If you want to collaborate or just say hi, feel free to reach out!
 
----
-
-## 🛠 My Technical Toolkit
-
-** Category & Technologies :
-
-* **Frontend** :  React, Tailwind CSS, HTML5/CSS3 
-* **Backend** :  PHP, Laravel 
-* **Databases** : MySQL 
-* **DevOps & Tools** : Git, Docker 
----
-
-## 📈 Professional Journey & Stats
-
-I thrive in collaborative environments where I can solve real-world problems. I am constantly pushing the boundaries of what is possible on the web, focusing on:
-* **Scalability:** Ensuring applications can grow with the user base.
-* **Accessibility:** Building web experiences for everyone.
-* **Security:** Implementing industry-standard security protocols.
-
----
-
-## 📫 Let's Connect & Collaborate
-
-I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
-* **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
-* **Email:** [YourEmail@example.com](zakaria.mennis.58@edu.uiz.ac.ma)
-* **Portfolio:** [YourPortfolio.com](https://YourPortfolio.com)
+**Fun Facts:**
+* 💻 I love exploring new open-source tools.
+* ☕ Powered by coffee and curiosity.
+* 🏋️‍♂️ When I'm not coding, you'll find me at the gym.
+* 📚 Hobbies: Reading tech blogs, building side projects.
