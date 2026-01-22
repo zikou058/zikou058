@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Zakaria Mennis**, a Full Stack Web Developer.
+I'm **Zakaria Mennis**, a Frondend Web Developer.
 
 I specialize in building scalable web solutions and seamless, user-centric applications. I love turning complex problems into elegant, functional code.
 
